@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Nandus Lead tracker",
+    
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    
+    "permissions": ["tabs"]
+}
